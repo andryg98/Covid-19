@@ -1,0 +1,111 @@
+{
+    "ministero_salute": "1500",
+    "unico_emergenza": ["112", "118"],
+    "numeri_regionali": [
+        {
+            "regione": "Abruzzo",
+            "codice_regione": 13,
+            "numeri": ["118", "800860146", "800090147"]
+        },
+        {
+            "regione": "Basilicata",
+            "codice_regione": 17,
+            "numeri": ["800996688"] 
+        },
+        {
+            "regione": "Calabria",
+            "codice_regione": 18,
+            "numeri": ["800767676"] 
+        },
+        {
+            "regione": "Campania",
+            "codice_regione": 15,
+            "numeri": ["800909699"] 
+        },
+        {
+            "regione": "Emilia Romagna",
+            "codice_regione": 8,
+            "numeri": ["800033033"] 
+        },
+        {
+            "regione": "Friuli Venezia Giulia",
+            "codice_regione": 6,
+            "numeri": ["800500300"] 
+        },
+        {
+            "regione": "Lazio",
+            "codice_regione": 12,
+            "numeri": ["800118800"] 
+        },
+        {
+            "regione": "Liguria",
+            "codice_regione": 7,
+            "numeri": ["112"] 
+        },
+        {
+            "regione": "Lombardia",
+            "codice_regione": 3,
+            "numeri": ["800894545"] 
+        },
+        {
+            "regione": "Marche",
+            "codice_regione": 11,
+            "numeri": ["800936677"] 
+        },
+        {
+            "regione": "Molise",
+            "codice_regione": 14,
+            "numeri": ["0874313000", "0874409000"] 
+        },
+        {
+            "regione": "Piemonte",
+            "codice_regione": 1,
+            "numeri": ["800192020", "800333444"]
+        },
+        {
+            "regione": "P.A Trento",
+            "codice_regione": 4,
+            "numeri": ["800867388"] 
+        },
+        {
+            "regione": "P.A. Bolzano",
+            "codice_regione": 4,
+            "numeri": ["800751751"] 
+        },
+        {
+            "regione": "Puglia",
+            "codice_regione": 16,
+            "numeri": ["800713931"] 
+        },
+        {
+            "regione": "Sardegna",
+            "codice_regione": 20,
+            "numeri": ["800311377"] 
+        },
+        {
+            "regione": "Sicilia",
+            "codice_regione": 19,
+            "numeri": ["800458787"] 
+        },
+        {
+            "regione": "Toscana",
+            "codice_regione": 9,
+            "numeri": ["800556060"] 
+        },
+        {
+            "regione": "Umbria",
+            "codice_regione": 10,
+            "numeri": ["800636363"] 
+        },
+        {
+            "regione": "Valle d'Aosta",
+            "codice_regione": 2,
+            "numeri": ["800122121"] 
+        },
+        {
+            "regione": "Veneto",
+            "codice_regione": 5,
+            "numeri": ["800462340"] 
+        }
+    ]
+}
