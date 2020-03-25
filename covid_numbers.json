@@ -5,37 +5,37 @@
         {
             "regione": "Abruzzo",
             "codice_regione": 13,
-            "numeri": ["118", "800860146", "800090147"]
+            "numeri": ["118", "800 86 01 46", "800 09 01 47"]
         },
         {
             "regione": "Basilicata",
             "codice_regione": 17,
-            "numeri": ["800996688"] 
+            "numeri": ["800 99 66 88"] 
         },
         {
             "regione": "Calabria",
             "codice_regione": 18,
-            "numeri": ["800767676"] 
+            "numeri": ["800 76 76 76"] 
         },
         {
             "regione": "Campania",
             "codice_regione": 15,
-            "numeri": ["800909699"] 
+            "numeri": ["800 90 96 99"] 
         },
         {
             "regione": "Emilia Romagna",
             "codice_regione": 8,
-            "numeri": ["800033033"] 
+            "numeri": ["800 03 30 33"] 
         },
         {
             "regione": "Friuli Venezia Giulia",
             "codice_regione": 6,
-            "numeri": ["800500300"] 
+            "numeri": ["800 50 03 00"] 
         },
         {
             "regione": "Lazio",
             "codice_regione": 12,
-            "numeri": ["800118800"] 
+            "numeri": ["800 11 88 00"] 
         },
         {
             "regione": "Liguria",
@@ -45,67 +45,67 @@
         {
             "regione": "Lombardia",
             "codice_regione": 3,
-            "numeri": ["800894545"] 
+            "numeri": ["800 89 45 45"] 
         },
         {
             "regione": "Marche",
             "codice_regione": 11,
-            "numeri": ["800936677"] 
+            "numeri": ["800 93 66 77"] 
         },
         {
             "regione": "Molise",
             "codice_regione": 14,
-            "numeri": ["0874313000", "0874409000"] 
+            "numeri": ["0874 313000", "0874 409000"] 
         },
         {
             "regione": "Piemonte",
             "codice_regione": 1,
-            "numeri": ["800192020", "800333444"]
+            "numeri": ["800 19 20 20", "800 33 34 44"]
         },
         {
             "regione": "P.A Trento",
             "codice_regione": 4,
-            "numeri": ["800867388"] 
+            "numeri": ["800 86 73 88"] 
         },
         {
             "regione": "P.A. Bolzano",
             "codice_regione": 4,
-            "numeri": ["800751751"] 
+            "numeri": ["800 75 17 51"] 
         },
         {
             "regione": "Puglia",
             "codice_regione": 16,
-            "numeri": ["800713931"] 
+            "numeri": ["800 71 39 31"] 
         },
         {
             "regione": "Sardegna",
             "codice_regione": 20,
-            "numeri": ["800311377"] 
+            "numeri": ["800 31 13 77"] 
         },
         {
             "regione": "Sicilia",
             "codice_regione": 19,
-            "numeri": ["800458787"] 
+            "numeri": ["800 45 87 87"] 
         },
         {
             "regione": "Toscana",
             "codice_regione": 9,
-            "numeri": ["800556060"] 
+            "numeri": ["800 55 60 60"] 
         },
         {
             "regione": "Umbria",
             "codice_regione": 10,
-            "numeri": ["800636363"] 
+            "numeri": ["800 63 63 63"] 
         },
         {
             "regione": "Valle d'Aosta",
             "codice_regione": 2,
-            "numeri": ["800122121"] 
+            "numeri": ["800 12 21 21"] 
         },
         {
             "regione": "Veneto",
             "codice_regione": 5,
-            "numeri": ["800462340"] 
+            "numeri": ["800 46 23 40"] 
         }
     ]
 }
