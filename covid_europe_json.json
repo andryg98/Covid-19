@@ -1,0 +1,124 @@
+{
+            "EmergencyNumbers": [
+                {
+                "region_name": "General Emergency Number",
+                "nation_name": "All other nations",
+                "phone_number": "112"
+                },
+             {
+                "region_name": "Austria",
+                "nation_name": "Austria",
+                "phone_number": "144"
+            },
+            {
+                "region_name": "Italia",
+                "nation_name": "Italia",
+                "phone_number": "1500"
+            },
+            {
+                "region_name": "Abruzzo",
+                "nation_name": "Italia",
+                "phone_number": "118"
+            },
+            {
+                "region_name": "Basilicata",
+                "nation_name": "Italia",
+                "phone_number": "800996688"
+            },
+            {
+                "region_name": "Calabria",
+                "nation_name": "Italia",
+                "phone_number": "800767676"
+            },
+            {
+                "region_name": "Campania",
+                "nation_name": "Italia",
+                "phone_number": "800909699"
+            },
+            {
+                "region_name": "Emilia Romagna",
+                "nation_name": "Italia",
+                "phone_number": "800033033"
+            },
+            {
+                "region_name": "Friuli Venezia Giulia",
+                "nation_name": "Italia",
+                "phone_number": "800500300"
+            },
+            {
+                "region_name": "Lazio",
+                "nation_name": "Italia",
+                "phone_number": "800118800"
+            },
+            {
+                "region_name": "Liguria",
+                "nation_name": "Italia",
+                "phone_number": "112"
+            },
+            {
+                "region_name": "Lombardia",
+                "nation_name": "Italia",
+                "phone_number": "800894545"
+            },
+            {
+                "region_name": "Marche",
+                "nation_name": "Italia",
+                "phone_number": "800936677"
+            },
+            {
+                "region_name": "Molise",
+                "nation_name": "Italia",
+                "phone_number": "0874313000"
+            },
+            {
+                "region_name": "Piemonte",
+                "nation_name": "Italia",
+                "phone_number": "800192020"
+            },
+            {
+                "region_name": "P.A Trento",
+                "nation_name": "Italia",
+                "phone_number": "800867388"
+            },
+            {
+                "region_name": "P.A. Bolzano",
+                "nation_name": "Italia",
+                "phone_number": "800751751"
+            },
+            {
+                "region_name": "Puglia",
+                "nation_name": "Italia",
+                "phone_number": "800713931"
+            },
+            {
+                "region_name": "Sardegna",
+                "nation_name": "Italia",
+                "phone_number": "800311377"
+            },
+            {
+                "region_name": "Sicilia",
+                "nation_name": "Italia",
+                "phone_number": "800458787"
+            },
+            {
+                "region_name": "Toscana",
+                "nation_name": "Italia",
+                "phone_number": "800556060"
+            },
+            {
+                "region_name": "Umbria",
+                "nation_name": "Italia",
+                "phone_number": "800636363"
+            },
+            {
+                "region_name": "Valle d'Aosta",
+                "nation_name": "Italia",
+                "phone_number": "800122121"
+            },
+            {
+                "region_name": "Veneto",
+                "nation_name": "Italia",
+                "phone_number": "800462340"
+            }
+        ]
+}
